@@ -13,9 +13,7 @@ dependencies:
     sdk: flutter
   rxdart: ^0.26.0
   esc_pos_utils: 
-    git: 
-      url: git@github.com:mysharkbate/esc_pos_utils.git
-      ref: 8b08d55
+    git: git@github.com:mysharkbate/esc_pos_utils.git
   # esc_pos_utils:
   # path: ../esc_pos_utils
   flutter_bluetooth_basic: ^0.1.7
